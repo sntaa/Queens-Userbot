@@ -1,9 +1,9 @@
 {
   "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.8+",
+  "description": "[Man-Userbot] This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
   "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
-  "repository": "https://github.com/tofikdn/Deploy-Man",
+  "repository": "https://github.com/R1SMAN/Man-Deploy",
   "stack": "container",
   "env": {
     "API_KEY": {
